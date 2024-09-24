@@ -1,0 +1,12 @@
+This project revolves around a customer-driven delivery system where individuals assist each other in delivering products. Customers earn points based on their address and home mapping system, which allows them to pick up deliveries for neighboring families while they are on their way back from their own deliveries. This initiative not only promotes community engagement but also optimizes delivery routes, reducing transportation costs and environmental impact. By facilitating these peer-to-peer deliveries, the system incentivizes customers to contribute to their local community and fosters a sense of cooperation among neighbors.
+
+Project Explanation
+In this project, I developed a web application that enables users to participate in a community-based delivery system. Key features of the project include:
+
+Home Mapping System: Users can register their addresses, which the application uses to map their locations and identify nearby families who may require delivery assistance.
+
+Point System: Customers earn points for each successful delivery made to their neighbors, creating an incentive for participation. The system tracks these points and provides users with a dashboard to view their earnings and delivery history.
+
+Route Optimization: The application allows users to select deliveries based on their existing routes, ensuring efficient use of time and resources. This feature helps minimize travel distances and promote eco-friendly practices.
+
+User Engagement: The platform encourages community interaction, allowing users to connect with their neighbors and contribute to a supportive delivery network.
